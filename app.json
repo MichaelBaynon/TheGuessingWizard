@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "The Guessing Wizard",
+    "slug": "the-guessing-wizard",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.michaelbaynon.theguessingwizard"
+    },
+    "description": "The Guessing Wizard is an app that takes in a number input from the user and the Wizard does his magic to figure it out."
+  }
+}
