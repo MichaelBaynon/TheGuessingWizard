@@ -13,16 +13,24 @@
 
 ![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0904.JPG)
 
+----------------------------------------------------------------------------------------------------------------------
+
 # Home Page With a registered input(number pad 1-99)
 
 ![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0905.JPG)
+
+----------------------------------------------------------------------------------------------------------------------
 
 # Game Screen (wizard guesses users number input)
 
 ![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0906.JPG)
 
+----------------------------------------------------------------------------------------------------------------------
+
 # Game over screen
 
 ![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0907.JPG)
+
+----------------------------------------------------------------------------------------------------------------------
 
 ## If you are interested in seeing the full product in action feel free to reach out. My portfolio is found [here](https://michaelbaynon.netlify.com/)
