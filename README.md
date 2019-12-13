@@ -17,19 +17,19 @@
 
 # Home Page With a registered input(number pad 1-99)
 
-![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0905.JPG){:height="20%" width="20%"}
+<img src="https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0905.JPG" width="400" height="790">
 
 ----------------------------------------------------------------------------------------------------------------------
 
 # Game Screen (wizard guesses users number input)
 
-![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0906.JPG){:height="20%" width="20%"}
+<img src="https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0906.JPG" width="400" height="790">
 
 ----------------------------------------------------------------------------------------------------------------------
 
 # Game over screen
 
-![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0907.JPG){:height="20%" width="20%"}
+<img src="https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0907.JPG" width="400" height="790">
 
 ----------------------------------------------------------------------------------------------------------------------
 
