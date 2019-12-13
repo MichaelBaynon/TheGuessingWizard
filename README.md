@@ -5,6 +5,10 @@
 
 ### Because I can not publish my app on the AppStore due to Apple's absurd prices screenshots are going to have to do.
 
+
+
+
+
 # Home Page Untouched
 
 ![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0904.JPG)
