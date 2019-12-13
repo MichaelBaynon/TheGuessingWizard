@@ -5,19 +5,19 @@
 
 ### Because I can not publish my app on the AppStore due to Apple's absurd prices screenshots are going to have to do.
 
-##### Home Page Untouched
+# Home Page Untouched
 
 ![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0904.JPG)
 
-##### Home Page With a registered input(number pad 1-99)
+# Home Page With a registered input(number pad 1-99)
 
 ![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0905.JPG)
 
-##### Game Screen (wizard guesses users number input)
+# Game Screen (wizard guesses users number input)
 
 ![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0906.JPG)
 
-##### Game over screen
+# Game over screen
 
 ![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0907.JPG)
 
