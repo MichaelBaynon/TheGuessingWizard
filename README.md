@@ -11,25 +11,25 @@
 
 # Home Page Untouched
 
-![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0904.JPG)
+![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0904.JPG){:height="50%" width="50%"}
 
 ----------------------------------------------------------------------------------------------------------------------
 
 # Home Page With a registered input(number pad 1-99)
 
-![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0905.JPG)
+![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0905.JPG){:height="50%" width="50%"}
 
 ----------------------------------------------------------------------------------------------------------------------
 
 # Game Screen (wizard guesses users number input)
 
-![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0906.JPG)
+![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0906.JPG){:height="50%" width="50%"}
 
 ----------------------------------------------------------------------------------------------------------------------
 
 # Game over screen
 
-![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0907.JPG)
+![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0907.JPG){:height="50%" width="50%"}
 
 ----------------------------------------------------------------------------------------------------------------------
 
