@@ -11,7 +11,7 @@
 
 # Home Page Untouched
 
-![](https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0904.JPG){:height="20%" width="20%"}
+<img src="https://raw.githubusercontent.com/MichaelBaynon/TheGuessingWizard/master/imgsForReadMe/IMG-0904.JPG" width="400" height="790">
 
 ----------------------------------------------------------------------------------------------------------------------
 
